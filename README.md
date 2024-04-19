@@ -9,4 +9,4 @@
 </p>
 </div>
 
-⏰Code will be released soon.
+⏰Code and pretrained weight will be released soon.
