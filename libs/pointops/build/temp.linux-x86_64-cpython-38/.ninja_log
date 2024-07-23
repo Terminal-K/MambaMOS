@@ -1,0 +1,20 @@
+# ninja log v5
+3	7569	1710387977587488570	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda.o	d73dc38972e55dd8
+1	7727	1710387977751486924	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda.o	d117e6c1a2a7ad8b
+3	7750	1710387977771486723	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda.o	9476417bcd253be5
+2	7760	1710387977779486643	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/ball_query/ball_query_cuda.o	b20558b68956808c
+2	7769	1710387977791486522	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/attention/attention_cuda.o	6fe83449741d2622
+6	7791	1710387977815486281	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda.o	544593e0e6e56bd
+6	7800	1710387977827486161	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda.o	b29340f2d904de9c
+5	7818	1710387977839486040	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/random_ball_query/random_ball_query_cuda.o	d252ffd3483b2e61
+4	8168	1710387978187482548	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/knn_query/knn_query_cuda.o	e6c3e85ad8e50008
+2	20028	1710387990051363658	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/ball_query/ball_query_cuda_kernel.o	c07840bbb1b5f55f
+5	20205	1710387990227361896	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/random_ball_query/random_ball_query_cuda_kernel.o	4f0384c69776f916
+4	20206	1710387990227361896	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/knn_query/knn_query_cuda_kernel.o	95bc027ff4af3e21
+1	20209	1710387990231361856	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda_kernel.o	a4de86cebf648997
+2	20278	1710387990303361136	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/attention/attention_cuda_kernel.o	b3c0bf1073958f70
+6	20337	1710387990363360535	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda_kernel.o	ba41d5b7850adbd0
+3	20343	1710387990371360455	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda_kernel.o	983231fda4ec3136
+4	20457	1710387990479359374	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda_kernel.o	4042659449e6d424
+5	20512	1710387990519358974	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/pointops_api.o	db403ce1a1c25111
+6	20530	1710387990555358615	/data4/zk/project/pointcept_new/libs/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda_kernel.o	74f5cc5d78468355
