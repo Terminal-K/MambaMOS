@@ -110,6 +110,19 @@ sh scripts/test.sh -g 1 -d semantic_kitti -n mambamos -w model_best
 ```
 Our pretrained model is public available and can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1oZ39MqgKx9kpBKRZW5-9Ui8oo_8KvSe4?usp=drive_link).
 
+## 🤝 Publication:
+Please consider referencing this paper if you use the ```code``` from our work.
+Thanks a lot :)
+
+```
+@inproceedings{zeng2024mambamos,
+  title={MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model},
+  author={Zeng, Kang and Shi, Hao and Lin, Jiacheng and Li, Siyu and Cheng, Jintao and Wang, Kaiwei and Li, Zhiyong and Yang, Kailun},
+  booktitle={ACM International Conference on Multimedia (MM)},
+  year={2024}
+}
+```
+
 
 ## Acknowledgement
 The code framework of this project is based on [pointcept](https://github.com/Pointcept/Pointcept), 
