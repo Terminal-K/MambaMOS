@@ -1,4 +1,6 @@
-# MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model
+<p align="center">
+<h1 align="center"><strong>MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model</strong></h1>
+<h3 align="center">ACM MM 2024</h3>
 
 <div align="center">
 <div>
